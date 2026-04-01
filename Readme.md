@@ -234,7 +234,3 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-## Notes
-
-* The system prioritizes robust tracking over raw detection accuracy
-* Designed to generalize across different cricket scenarios# Cricket-Ball-Tracking-
